@@ -1,7 +1,4 @@
-/*
-Q85 (Strings)
-Reverse a string.
-*/
+// Q85 (Strings): Reverse a string.
 
 #include <stdio.h>
 
