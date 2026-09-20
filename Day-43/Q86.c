@@ -1,7 +1,4 @@
-/*
-Q86 (Strings)
-Check if a string is a palindrome.
-*/
+// Q86 (Strings): Check if a string is a palindrome.
 
 #include <stdio.h>
 
